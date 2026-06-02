@@ -80,7 +80,7 @@
 
 <div align="center" id="التثبيت-على-termux">
 
-### Termux
+## Termux
 
 </div>
 
@@ -124,7 +124,7 @@ pkg update && pkg upgrade -y && pkg install python -y && pip install pillow PyPD
 
 <div align="center" id="التثبيت-على-kali-linux">
 
-Kali Linux
+## Kali Linux
 
 </div>
 
@@ -168,7 +168,7 @@ sudo apt update && sudo apt upgrade -y && pip install pillow PyPDF2 python-docx 
 
 <div align="center" id="التشغيل">
 
-🚀 التشغيل
+## 🚀 التشغيل
 
 </div>
 
@@ -186,7 +186,7 @@ mud_fm.py
 
 <div align="center" id="طريقة-الاستخدام">
 
-📖 طريقة الاستخدام
+## 📖 طريقة الاستخدام
 
 </div>
 
@@ -198,7 +198,7 @@ fm /path/to/file.jpg
 
 <div align="center" id="مثال">
 
-💡 مثال
+## 💡 مثال
 
 </div>
 
@@ -226,7 +226,7 @@ fm ~/storage/downloads/sample.pdf
 
 <div align="center" id="المتطلبات">
 
-🔧 المتطلبات
+## 🔧 المتطلبات
 
 المتطلب الوصف
 Python 3.6+ لغة البرمجة
@@ -240,7 +240,7 @@ python-docx لقراءة Word
 
 <div align="center" id="إخلاء-المسؤولية">
 
-⚖️ إخلاء المسؤولية
+## ⚖️ إخلاء المسؤولية
 
 </div>
 
@@ -250,7 +250,7 @@ python-docx لقراءة Word
 
 <div align="center" id="المطوّر">
 
-👨‍💻 المطوّر
+## 👨‍💻 المطوّر
 
 **Muhannad Daher**
 
@@ -258,15 +258,15 @@ python-docx لقراءة Word
 
 ---
 
-📄 الرخصة
+## 📄 الرخصة
 
-MIT License — حر الاستخدام مع ذكر المصدر
+**MIT License — حر الاستخدام مع ذكر المصدر**
 
 ---
 
-Madarik Tools — صُنع بالعربية
+**Madarik Tools — صُنع بالعربية**
 
-⭐ إذا أعجبتك الأداة، لا تنسَ النجمة! ⭐
+⭐ **إذا أعجبتك الأداة، لا تنسَ النجمة!** ⭐
 
 </div>
 ```
