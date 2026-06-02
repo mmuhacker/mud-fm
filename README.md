@@ -14,8 +14,8 @@
  ██╔════╝████╗ ████║
  █████╗  ██╔████╔██║
  ██╔══╝  ██║╚██╔╝██║
-██║      ██║ ╚═╝ ██║
-╚═╝      ╚═╝     ╚═╝
+██║      ██║ ╚═╝  ██║
+╚═╝      ╚═╝      ╚═╝
 ```
 
 ![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge)<br>
