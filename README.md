@@ -229,13 +229,11 @@ fm ~/storage/downloads/sample.pdf
 ## 🔧 المتطلبات
 
 |----|-------|
+
 | المتطلب | الوصف |
 | Python 3.6+ | لغة البرمجة |
-
 | Pillow | للتعامل مع الصور |
-
 | PyPDF2 | لقراءة PDF |
-
 | python-docx | لقراءة Word |
 
 </div>
